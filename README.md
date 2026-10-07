@@ -3,5 +3,6 @@
 </p>
 <br>
 
-$${\color{#00BFFF} \mathtt{\text{i} \space f \space only \space i \space had \space known \space it \space was \space our \space last \space hangout, \space i \space would've \space stayed \space a \space little \space longer…}}$$
+$${\color{#00BFFF} \text{\ttfamily if only i had known it was our last hangout, i would've stayed a little longer...}}$$
+
 
