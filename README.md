@@ -3,6 +3,6 @@
 </p>
 <br>
 
-$${\color{#00BFFF} \text{\ttfamily if only i had known it was our last hangout, i would've stayed a little longer...}}$$
+$${\color{#00BFFF} \text{if only i had known it was our last hangout, i would've stayed a little longer...}}$$
 
 
