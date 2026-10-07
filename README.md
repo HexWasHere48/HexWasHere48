@@ -3,4 +3,5 @@
 </p>
 <br>
 
-$${\color{#00BFFF} \mathtt{\text{i} \space wish \space we \space could \space go \space back \space . \space . \space .}}$$
+$${\color{#00BFFF} \mathtt{\text{i} \space f \space only \space i \space had \space known \space it \space was \space our \space last \space hangout, \space i \space would've \space stayed \space a \space little \space longer…}}$$
+
